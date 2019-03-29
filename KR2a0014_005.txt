@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 三國志補注
-#+DATE: 2019-03-29 20:49:06.269431
+#+DATE: 2019-03-29 20:49:06.340363
 #+PROPERTY: ID KR2a0014
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 5
 <pb:KR2a0014_WYG_005-1a>¶
 　　欽定四庫全書¶
@@ -462,7 +462,7 @@
 ¶
 　　水經注曰淯水又南逕預山東山南有魏車騎將¶
 <pb:KR2a0014_WYG_005-20a>¶
-軍黄權夫妻二冢地道&KR0343;通其冢前有四碑其二¶
+軍黄權夫妻二冢地道?通其冢前有四碑其二¶
 魏明帝立二是其子及臣吏所樹者也¶
 ¶
 　　蔣琬費褘姜維傳¶
